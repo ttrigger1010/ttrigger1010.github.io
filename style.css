@@ -48,17 +48,8 @@ ul.sub-menu  {
   padding-top: 3px;
 }
 
-.menu a {
-  color: #fff;
-  font-size: 15px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-menu li.dropdown > a {
-    background-image:url('http://www.clipartbest.com/cliparts/RiA/6p5/RiA6p5riL.jpeg');
-    background-position:right 20px;
-    background-repeat:no-repeat;
+.menu li li {
+  background-color: #abc;
 }
 
 .icon-close {
