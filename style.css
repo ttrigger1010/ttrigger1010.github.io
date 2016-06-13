@@ -15,8 +15,8 @@ body {
   width: 285px;
 }
 
-.menu ul li li {
-  background-color:rgb(50,100,75);
+ul.sub-menu  {
+  display:none;
 }
 
 /* Basic styling */
