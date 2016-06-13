@@ -71,8 +71,10 @@ body {
   margin-right: 5px;
 }
 
-.menu li ul {
-  display:none;
-  position:absolute;
+.menu li:hover ul {
+  display:block;
+  background:red;
+  height:auto;
+  width:8em;
 }
 }
