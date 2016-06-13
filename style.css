@@ -71,7 +71,7 @@ body {
   margin-right: 5px;
 }
 
-.menu:hover ul {
+.menu:hover {
   display:block;
   background:red;
   height:auto;
