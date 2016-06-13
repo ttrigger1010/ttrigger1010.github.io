@@ -16,7 +16,7 @@ body {
 }
 
 .menu ul li li {
-  background:red;
+  background-color:rgb(50,100,75);
 }
 
 /* Basic styling */
