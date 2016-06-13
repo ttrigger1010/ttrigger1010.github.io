@@ -23,7 +23,7 @@ var main = function() {
   $('.menu li.dropdown').ready(function() {
     $( '.dropdown' ).hover(
         function(){
-            $(this).children('.sub-menu').slideDown(200);
+            $(this).children('.sub-menu').slideDown(201);
         },
         function(){
             $(this).children('.sub-menu').slideUp(200);
