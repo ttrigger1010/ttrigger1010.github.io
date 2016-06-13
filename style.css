@@ -15,6 +15,10 @@ body {
   width: 285px;
 }
 
+.menu ul li li {
+  background:red;
+}
+
 /* Basic styling */
 
 .jumbotron {
