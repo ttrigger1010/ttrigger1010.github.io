@@ -26,6 +26,12 @@ ul.sub-menu  {
   text-transform:uppercase;
 }
 
+.menu li.dropdown > .menu a {
+    background-image:url('../img/arrow-down.png');
+    background-position:right 20px;
+    background-repeat:no-repeat;
+}
+
 
 /* Basic styling */
 
