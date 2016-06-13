@@ -26,6 +26,11 @@ ul.sub-menu  {
   text-transform:uppercase;
 }
 
+.menu li.dropdown > a:after {
+    color: #fff;
+    content: ' ▾';
+}
+
 
 
 /* Basic styling */
