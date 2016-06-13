@@ -33,9 +33,12 @@ body {
   padding: 0;
 }
 
-.menu ul li {
-  display:inline-block;
-  position:relative;
+.menu li ul {    
+    background-color:rgb(225,75,75);
+    position:absolute;
+    left:0;
+    top:40px; /* make this equal to the line-height of the links (specified below) */
+    width:200px;
 }
 
 .menu li {
