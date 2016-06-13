@@ -19,6 +19,7 @@ ul.sub-menu  {
   display:none;
 }
 
+
 /* Basic styling */
 
 .jumbotron {
@@ -54,6 +55,11 @@ ul.sub-menu  {
   text-transform: uppercase;
 }
 
+menu a:hover,
+menu a:focus,
+menu a:active {
+  color:rgb(50,50,50);
+}
 
 .icon-close {
   cursor: pointer;
