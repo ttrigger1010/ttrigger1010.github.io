@@ -26,6 +26,10 @@ ul.sub-menu  {
   text-transform:uppercase;
 }
 
+.menu a:hover {
+  background-color: #f1f1f1;
+}
+
 .menu li.dropdown > a:after {
     color: #fff;
     content: ' ▾';
