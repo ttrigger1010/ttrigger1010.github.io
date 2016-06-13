@@ -26,8 +26,8 @@ ul.sub-menu  {
   text-transform:uppercase;
 }
 
-.menu li.dropdown > a {
-    background-image:url('../img/arrow-down.png');
+.menu li.dropdown > {
+    background-image:url('http://www.designofsignage.com/application/symbol/hands/image/600x600/hand-point-right-2.jpg');
     background-position:right 20px;
     background-repeat:no-repeat;
 }
