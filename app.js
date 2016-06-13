@@ -22,16 +22,16 @@
    }); 
   
   
-  $('.menu li.dropdown').ready(function() {
-    $('.dropdown').hover(
-      function(){
-       $(this).children('.sub-menu').slideDown(200);
-      },
-      function(){
-       $(this).children('sub.menu').slideUp(200);
-      }
-    );  
-  });  
+ $().ready(function() {
+    $( '.dropdown' ).hover(
+        function(){
+            $(this).children('.sub-menu').slideDown(200);
+        },
+        function(){
+            $(this).children('.sub-menu').slideUp(200);
+        }
+    );
+}); 
  
  };
 $(document).ready(main); 
