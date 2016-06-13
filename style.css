@@ -55,10 +55,10 @@ ul.sub-menu  {
   text-transform: uppercase;
 }
 
-menu a:hover,
-menu a:focus,
-menu a:active {
-  color:rgb(50,50,50);
+menu li.dropdown > a {
+    background-image:url('http://www.clipartbest.com/cliparts/RiA/6p5/RiA6p5riL.jpeg');
+    background-position:right 20px;
+    background-repeat:no-repeat;
 }
 
 .icon-close {
