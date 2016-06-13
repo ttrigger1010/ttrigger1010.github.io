@@ -71,10 +71,4 @@ body {
   margin-right: 5px;
 }
 
-.menu:hover {
-  display:block;
-  background:red;
-  height:auto;
-  width:16.5em;
-}
 }
