@@ -37,12 +37,6 @@ ul.sub-menu  {
   padding: 0;
 }
 
-.menu li ul ul{    
-    background-color:rgb(225,75,75);
-    position:absolute;
- 
-
-}
 
 .menu li {
   border-bottom: 1px solid #636366;
@@ -58,6 +52,13 @@ ul.sub-menu  {
   font-size: 15px;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.menu b {
+  color:#AAA;
+  font-size:25px;
+  text-decoration: none;
+  text-transform:uppercase;
 }
 
 .icon-close {
