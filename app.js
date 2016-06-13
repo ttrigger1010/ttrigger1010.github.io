@@ -20,7 +20,7 @@ var main = function() {
     }, 300);
   });
   
-  $('.menu li.dropdown').ready(function() {
+  /* $('.menu li.dropdown').ready(function() { 
     $( '.dropdown' ).hover(
         function(){
             $(this).children('.sub-menu').slideDown(201);
@@ -30,5 +30,6 @@ var main = function() {
         }
     );
   };
+  */
 };
 $(document).ready(main);
