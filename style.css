@@ -24,8 +24,9 @@ body {
   text-transform:uppercase;
 }
 
-
-
+.menu a:hover {
+  color:#ff0000;
+}
 
 .menu li.dropdown > a:after {
     color: #fff;
