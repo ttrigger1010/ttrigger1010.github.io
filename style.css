@@ -25,6 +25,13 @@ ul.sub-menu  {
   text-decoration: none;
   text-transform:uppercase;
 }
+
+menu li.dropdown > menu.a {
+    background-image:url('http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/magic-marker-icons-arrows/114827-magic-marker-icon-arrows-arrow-thick-right.png');
+    background-position:right 20px;
+    background-repeat:no-repeat;
+}
+}
 /* Basic styling */
 
 .jumbotron {
