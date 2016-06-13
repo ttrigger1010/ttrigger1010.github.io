@@ -20,7 +20,7 @@ var main = function() {
     }, 300);
   });
   
-  $('').ready(function() {
+  $('.menu.dropdown').ready(function() {
     $( '.dropdown' ).hover(
         function(){
             $(this).children('.sub-menu').slideDown(200);
