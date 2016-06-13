@@ -15,9 +15,7 @@ body {
   width: 285px;
 }
 
-ul.sub-menu  {
-  display:none;
-}
+
 
 .menu a {
   color: #fff;
@@ -36,6 +34,10 @@ ul.sub-menu  {
 
 .menu li.dropdown {
   color: #ff0000;
+}
+
+ul.sub-menu  {
+  display:none;
 }
 
 /* Basic styling */
