@@ -26,14 +26,7 @@ ul.sub-menu  {
   text-transform:uppercase;
 }
 
-.menu a:hover {
-  
-  background-color: #f1f1f1;
-}
 
-.menu:hover .dropdown {
-  display block;
-}
 
 
 .menu li.dropdown > a:after {
