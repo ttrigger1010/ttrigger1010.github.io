@@ -20,6 +20,16 @@ var main = function() {
     }, 300);
   });
   
+  $('.menu').ready(function() {
+    $( '.dropdown' ).hover(
+        function(){
+            $(this).children('.sub-menu').slideDown(200);
+        },
+        function(){
+            $(this).children('.sub-menu').slideUp(200);
+        }
+    );
+  
 };
 
 $(document).ready(main);
