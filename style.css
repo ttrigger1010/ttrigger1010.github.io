@@ -19,7 +19,7 @@ ul.sub-menu  {
   display:none;
 }
 
-.menu b {
+.menu a {
   color: #fff;
   font-size: 15px;
   text-decoration: none;
