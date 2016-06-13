@@ -34,7 +34,9 @@ ul.sub-menu  {
     content: ' ▾';
 }
 
-
+.menu li.dropdown {
+  color: #ff0000;
+}
 
 /* Basic styling */
 
