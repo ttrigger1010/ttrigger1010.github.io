@@ -77,7 +77,7 @@ img {
 }
 .mainMenu ul {
 	float: right;
-	padding-left: 250;
+	padding-left: 0;
 	margin-bottom: 0;
 	line-height: 60px;
 }
