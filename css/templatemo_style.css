@@ -136,7 +136,7 @@ img {
 	border-color: #5ea32e;
 }
 
-.templatemo_caption p { color: #ffffff; background: rgba(0, 0, 0, 0.32); padding: 0px; font-size: 12px; }
+.templatemo_caption p { color: #ffffff; background: rgba(0, 0, 0, 0); padding: 10px; font-size: 12px; }
 
 .templatemo_caption	{
 	margin-left: 10%;
