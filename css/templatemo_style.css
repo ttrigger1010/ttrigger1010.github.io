@@ -61,7 +61,7 @@ img {
 	position: fixed;
 	z-index: 5000;
 	background: #ffffff;
-	width: 50%;
+	width: 100%;
 
 }
 .templatemo_slider {
@@ -70,7 +70,7 @@ img {
 }
 .logo {
 	padding: 0 0 0 20px;
-	width: 190px;
+	width: 100px;
 }
 .mainMenu {
 
