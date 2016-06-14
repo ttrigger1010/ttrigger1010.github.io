@@ -69,7 +69,7 @@ img {
 	position: relative;
 }
 .logo {
-	padding: 0 0 0 75px;
+	padding: 0 0 0 20px;
 	width: 100px;
 }
 .mainMenu {
@@ -97,7 +97,7 @@ img {
 #top-menu ul { float: right;}
 #top-menu li {
     float: left;
-	line-height: 60px;
+	line-height: 100px;
 	display: inline-block;
 }
 
